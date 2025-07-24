@@ -7,4 +7,6 @@ public class SeedData : ScriptableObject
     public Sprite icon;
     public GameObject plantPrefab;
     public float growthTime;
+    [HideInInspector] public int quantity;
+    public Sprite[] growthStages;
 }

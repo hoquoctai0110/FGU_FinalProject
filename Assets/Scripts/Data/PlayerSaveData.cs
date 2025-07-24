@@ -10,9 +10,10 @@ public class PlayerSaveData
     public double experience;
     public double expToNextLv;
     public List<SeedInventoryItem> seedInventory = new();
-    public List<FarmTileData> mapData = new();
+    public List<MapTileData> mapData = new();
+    public List<PlantData> plantData = new();
 
-    public PlayerSaveData(int level, double currentExp, double expToNextLv, List<SeedInventoryItem> seeds, List<FarmTileData> tiles)
+    public PlayerSaveData(int level, double currentExp, double expToNextLv, List<SeedInventoryItem> seeds, List<MapTileData> tiles)
     {
         this.level = level;
         this.experience = currentExp;
@@ -47,12 +48,19 @@ public class SeedInventoryItem
 }
 
 [System.Serializable]
-public class FarmTileData
+public class MapTileData
 {
     public int x;
     public int y;
-    public bool isDug;
+    public string tileType;
+}
+
+[System.Serializable]
+public class PlantData
+{
+    public int x;
+    public int y;
     public string seedId;
-    public float growProgess;
-    public bool isWatered;
+    public float growthTimer;
+    public int currentStage;
 }

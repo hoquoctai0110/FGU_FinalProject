@@ -30,16 +30,22 @@ public class PlayerInteract : MonoBehaviour
 
     public void Picking()
     {
+        float x = Input.GetAxisRaw("Horizontal");
+        float y = Input.GetAxisRaw("Vertical");
+        if(x != 0 || y!= 0)
+        {
+            picking = new Vector2(x, y);
+            lastPick = picking;
+        }
         if (Input.GetMouseButtonDown(0))
         {
+            AudioManager.Instance.PlayHoe();
             levelScript.AddExp(30);
-            Vector3 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-            Debug.Log(mousePos);
-            mousePos.z = 0;
-            Vector2 pickPosition = (mousePos - playerTransform.position).normalized;
-            animator.SetFloat("pickX", pickPosition.x);
-            animator.SetFloat("pickY", pickPosition.y);
-            animator.SetTrigger("picking");
+         
+                animator.SetFloat("pickX", lastPick.x);
+                animator.SetFloat("pickY", lastPick.y);
+                animator.SetTrigger("picking");
+           
         }
     }
 
@@ -51,7 +57,8 @@ public class PlayerInteract : MonoBehaviour
         TileBase currentTile = groundTilemap.GetTile(cellPos);
         if (currentTile != null && currentTile.name.Contains("Grass"))
         {
-            groundTilemap.SetTile(cellPos, soilTile);
+            groundTilemap.SetTile(cellPos, null);
+            soilTilemap.SetTile(cellPos, soilTile);
         }
     }
 }
