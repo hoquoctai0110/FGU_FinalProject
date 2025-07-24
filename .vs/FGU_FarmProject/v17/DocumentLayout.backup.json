@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity\\Unity project\\FGU_FarmProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08633F4C-0080-084B-160F-5DFDE1BFE8DD}|Assembly-CSharp.csproj|D:\\Unity\\Unity project\\FGU_FarmProject\\assets\\scripts\\data\\savedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08633F4C-0080-084B-160F-5DFDE1BFE8DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\savedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08633F4C-0080-084B-160F-5DFDE1BFE8DD}|Assembly-CSharp.csproj|d:\\unity\\unity project\\fgu_farmproject\\assets\\scripts\\data\\savesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08633F4C-0080-084B-160F-5DFDE1BFE8DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\savesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08633F4C-0080-084B-160F-5DFDE1BFE8DD}|Assembly-CSharp.csproj|d:\\unity\\unity project\\fgu_farmproject\\assets\\scripts\\data\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08633F4C-0080-084B-160F-5DFDE1BFE8DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08633F4C-0080-084B-160F-5DFDE1BFE8DD}|Assembly-CSharp.csproj|D:\\Unity\\Unity project\\FGU_FarmProject\\assets\\scripts\\ui\\seedbarui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08633F4C-0080-084B-160F-5DFDE1BFE8DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\seedbarui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08633F4C-0080-084B-160F-5DFDE1BFE8DD}|Assembly-CSharp.csproj|D:\\Unity\\Unity project\\FGU_FarmProject\\assets\\scripts\\scriptableobjects\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08633F4C-0080-084B-160F-5DFDE1BFE8DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptableobjects\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08633F4C-0080-084B-160F-5DFDE1BFE8DD}|Assembly-CSharp.csproj|D:\\Unity\\Unity project\\FGU_FarmProject\\assets\\scripts\\character\\playerinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08633F4C-0080-084B-160F-5DFDE1BFE8DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\character\\playerinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08633F4C-0080-084B-160F-5DFDE1BFE8DD}|Assembly-CSharp.csproj|D:\\Unity\\Unity project\\FGU_FarmProject\\assets\\scripts\\animals\\chicken\\chickenmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08633F4C-0080-084B-160F-5DFDE1BFE8DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\animals\\chicken\\chickenmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08633F4C-0080-084B-160F-5DFDE1BFE8DD}|Assembly-CSharp.csproj|D:\\Unity\\Unity project\\FGU_FarmProject\\assets\\scripts\\house\\autodoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08633F4C-0080-084B-160F-5DFDE1BFE8DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\house\\autodoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\Unity\\Unity project\\FGU_FarmProject\\Assets\\Scripts\\Data\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\GameManager.cs",
+              "ToolTip": "D:\\Unity\\Unity project\\FGU_FarmProject\\Assets\\Scripts\\Data\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T20:25:47.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SaveSystem.cs",
+              "DocumentMoniker": "D:\\Unity\\Unity project\\FGU_FarmProject\\Assets\\Scripts\\Data\\SaveSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\SaveSystem.cs",
+              "ToolTip": "D:\\Unity\\Unity project\\FGU_FarmProject\\Assets\\Scripts\\Data\\SaveSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\SaveSystem.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T20:19:35.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SaveData.cs",
+              "DocumentMoniker": "D:\\Unity\\Unity project\\FGU_FarmProject\\Assets\\Scripts\\Data\\SaveData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\SaveData.cs",
+              "ToolTip": "D:\\Unity\\Unity project\\FGU_FarmProject\\Assets\\Scripts\\Data\\SaveData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\SaveData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T20:13:01.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SeedBarUI.cs",
+              "DocumentMoniker": "D:\\Unity\\Unity project\\FGU_FarmProject\\Assets\\Scripts\\UI\\SeedBarUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\SeedBarUI.cs",
+              "ToolTip": "D:\\Unity\\Unity project\\FGU_FarmProject\\Assets\\Scripts\\UI\\SeedBarUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\SeedBarUI.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwCkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T17:41:08.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "D:\\Unity\\Unity project\\FGU_FarmProject\\Assets\\Scripts\\ScriptableObjects\\SeedData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObjects\\SeedData.cs",
+              "ToolTip": "D:\\Unity\\Unity project\\FGU_FarmProject\\Assets\\Scripts\\ScriptableObjects\\SeedData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptableObjects\\SeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T17:28:28.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerInteract.cs",
+              "DocumentMoniker": "D:\\Unity\\Unity project\\FGU_FarmProject\\Assets\\Scripts\\Character\\PlayerInteract.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Character\\PlayerInteract.cs",
+              "ToolTip": "D:\\Unity\\Unity project\\FGU_FarmProject\\Assets\\Scripts\\Character\\PlayerInteract.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Character\\PlayerInteract.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T16:13:26.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AutoDoor.cs",
+              "DocumentMoniker": "D:\\Unity\\Unity project\\FGU_FarmProject\\Assets\\Scripts\\House\\AutoDoor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\House\\AutoDoor.cs",
+              "ToolTip": "D:\\Unity\\Unity project\\FGU_FarmProject\\Assets\\Scripts\\House\\AutoDoor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\House\\AutoDoor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T15:26:29.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChickenMovement.cs",
+              "DocumentMoniker": "D:\\Unity\\Unity project\\FGU_FarmProject\\Assets\\Scripts\\Animals\\Chicken\\ChickenMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Animals\\Chicken\\ChickenMovement.cs",
+              "ToolTip": "D:\\Unity\\Unity project\\FGU_FarmProject\\Assets\\Scripts\\Animals\\Chicken\\ChickenMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Animals\\Chicken\\ChickenMovement.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T01:42:48.683Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
